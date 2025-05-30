@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "",
+    "from": "\"Addhithya R.H\" <addhithya1905@gmail.com>",
+    "date": "Fri, 30 May 2025 13:32:43 +0530",
+    "Compliance": "No",
+    "reason": "The email contains sensitive information (\"INCOME TAX DETAILS FY 2023-24\") and explicitly instructs the recipient not to share it externally (\"CONFIDENTIAL \u2013 DO NOT SHARE EXTERNALLY\"). This relates to data privacy and financial information regulations, implying a potential violation if shared improperly. The provided regulations, while not directly violated in the content of the email, suggest sensitivity around income tax data and its potential misuse.",
+    "snippet": "\nCONFIDENTIAL \u2013 DO NOT SHARE EXTERNALLY\nINCOME TAX DETAILS FY 2023-24\n\nThese records were compiled for internal filing. Shared via email on 25-May-2025."
+  },
+  {
+    "subject": "\u201csoftware engineer\u201d: TRX - Graduate Software Engineer and more",
+    "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "date": "Fri, 30 May 2025 07:37:53 +0000 (UTC)",
+    "Compliance": "Yes",
+    "reason": "The email content does not directly violate the provided regulations related to income tax, SME listing, and financial activities.",
+    "snippet": "Your job alert for software engineer in Chennai\r\n30+ new jobs match your preferences.\r\n          \r\nGraduate Software Engineer\r\nTRX\r\nAPAC\r\nApply with resume & profile\r\nView job: https://www.linkedin.com/comm/jobs/view/4239804381/?trackingId=d3XQprOimA4igIV1Gq%2BKXA%3D%3D&refId=ByteString%28length%3D1"
+  },
+  {
+    "subject": "",
+    "from": "\"Addhithya R.H\" <addhithya1905@gmail.com>",
+    "date": "Fri, 30 May 2025 12:52:05 +0530",
+    "Compliance": "No",
+    "reason": "The email contains confidential income tax details shared externally, which potentially violates data privacy and financial information regulations.",
+    "snippet": "\nCONFIDENTIAL \u2013 DO NOT SHARE EXTERNALLY\nINCOME TAX DETAILS FY 2023-24\n\nThese records were compiled for internal filing. Shared via email on 25-May-2025."
+  },
+  {
+    "subject": "",
+    "from": "\"Addhithya R.H\" <addhithya1905@gmail.com>",
+    "date": "Fri, 30 May 2025 12:22:33 +0530",
+    "Compliance": "No",
+    "reason": "The email explicitly contains confidential income tax details, which, according to the provided text, can be a violation if shared inappropriately.",
+    "snippet": "\nCONFIDENTIAL \u2013 DO NOT SHARE EXTERNALLY\nINCOME TAX DETAILS FY 2023-24\n\nThese records were compiled for internal filing. Shared via email on 25-May-2025."
+  },
+  {
+    "subject": "Medical Reports",
+    "from": "\"Addhithya R.H\" <addhithya1905@gmail.com>",
+    "date": "Fri, 30 May 2025 12:09:25 +0530",
+    "Compliance": "Yes",
+    "reason": "The provided compliance regulations relate to income tax, residency status, and banking, and the email's content does not directly pertain to these topics.",
+    "snippet": "Hi Rahul,\r\n\r\nPlease find below the medical details of the shortlisted candidates for\r\ndeployment:\r\n\r\n   -\r\n\r\n   *Name:* John Smith\r\n   *DOB:* 1992-03-14\r\n   *Diagnosis:* Hypertension\r\n   *Prescriptions:* Atenolol 50mg daily\r\n   *Address:* 42 Maple Street, Chennai\r\n   *Phone:* +91-98400-12345\r\n   -\r\n"
+  },
+  {
+    "subject": "\u201cengineer\u201d: TRX - Graduate Software Engineer and more",
+    "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "date": "Fri, 30 May 2025 05:37:53 +0000 (UTC)",
+    "Compliance": "Yes",
+    "reason": "The email is a job alert and doesn't directly violate any of the provided regulations related to income tax, SME compliance, or financial information.",
+    "snippet": "Your job alert for engineer in Coimbatore\r\n30+ new jobs match your preferences.\r\n          \r\nGraduate Software Engineer\r\nTRX\r\nAPAC\r\nApply with resume & profile\r\nView job: https://www.linkedin.com/comm/jobs/view/4239804381/?trackingId=F5GFq7PhWgR4yMMGONheaw%3D%3D&refId=ByteString%28length%3D16%2Cbyte"
+  },
+  {
+    "subject": "LeetCode Weekly Digest",
+    "from": "LeetCode <no-reply@leetcode.com>",
+    "date": "Fri, 30 May 2025 05:10:36 +0000",
+    "Compliance": "Unknown",
+    "reason": "Failed to parse Gemini response: ",
+    "snippet": "\n"
+  },
+  {
+    "subject": "EducationUSA Chennai Newsletter - May 30, 2025",
+    "from": "\"EducationUSA Center @ USIEF Chennai\" <chennai.educationusa.org@187d9.clients.bmsend.com>",
+    "date": "Fri, 30 May 2025 04:17:40 +0000",
+    "Compliance": "Yes",
+    "reason": "The email does not directly violate the provided regulations. The regulations mainly focus on income tax, financial activities, and educational institutions within India, none of which are directly violated by the content of this email.",
+    "snippet": "View this email in your browser:     \r\n    \r\nhttp://usief.benchurl.com/c/v?e=19E4FE1&c=187D9&t=0&l=12081FCB&email=BXD9AU6d8G%2BqRdoSG3ETo49nNPuw6lIV&relid=    \r\n    \r\nYou are receiving this email because of your relationship with USIEF.   If you do not wish to receive any more emails, you can unsubs"
+  },
+  {
+    "subject": "Your Personalized Developer News from NVIDIA",
+    "from": "NVIDIA Developer Relations <news@nvidia.com>",
+    "date": "Thu, 29 May 2025 22:13:52 -0500 (CDT)",
+    "Compliance": "Yes",
+    "reason": "The email does not directly violate the provided regulations related to data privacy, GDPR, financial information, or ESG.",
+    "snippet": "Read the latest tutorials and news curated for you.\r\nGTC Paris Keynote at VivaTech with Jensen Huang on June 11. Learn more\u00a0\u276f <https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGavic4Z1zQ5_8plP0NYoqgQMe93OhrlAZ9jQFCvlWtZibmXoL5ix_eZu8AkluVeiJJkyprDBg=>\r\nThis newsletter was curated based on your topic pref"
+  },
+  {
+    "subject": "Missed NVIDIA at $1? Shopify in the early days? Here's what could be next",
+    "from": "Generative AI via LinkedIn <newsletters-noreply@linkedin.com>",
+    "date": "Fri, 30 May 2025 01:37:53 +0000 (UTC)",
+    "Compliance": "Yes",
+    "reason": "The email does not directly violate the provided regulations.",
+    "snippet": "The Atlas\r\n\r\nBy Generative AI\r\n\r\n\r\nBy Generative AI\r\n\r\n    \r\n    \r\n    Read this article on LinkedIn to join the conversation\r\nRead on LinkedIn\r\nhttps://www.linkedin.com/comm/pulse/missed-nvidia-1-shopify-early-days-heres-what-could-next-uhlje?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newslet"
+  }
+]

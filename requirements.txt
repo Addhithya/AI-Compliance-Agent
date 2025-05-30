@@ -1,0 +1,26 @@
+flask
+flask-cors
+
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+PyMuPDF
+python-docx
+
+google-generativeai
+
+nomic
+chromadb
+
+
+requests
+tqdm
+
+python-dotenv
+
+# Required for base64 encoding/decoding and other common tasks
+# (no need to list built-in packages like base64 or os)
+
+APScheduler
